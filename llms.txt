@@ -1,0 +1,99 @@
+# EW Academy - Aprenda com as melhores trilhas de aprendizado
+
+Descubra as trilhas de aprendizado da EW Academy e transforme sua carreira com cursos de alta qualidade em JavaScript, DevOps, Testes e muito mais.
+
+## Cursos
+
+## Trilhas de Aprendizado que possuem os cursos acima
+
+### Trilha Cursos Livres - Projetos
+- [Recriando o App Club House com Javascript e WebSockets](https://ew.academy/trilha/cursos-livres-projetos/curso/recriando-o-app-club-house-com-javascript-e-web-sockets/): Um projeto que ensina a desenvolver um aplicativo semelhante ao Club House utilizando JavaScript e WebSockets.
+- [Reimaginando o Multi-Upload de Arquivos do Google Drive com Testes Automatizados](https://ew.academy/trilha/cursos-livres-projetos/curso/reimaginando-o-multi-upload-de-arquivos-do-google-drive-com-testes-automatizados/): Um projeto que demonstra como implementar testes automatizados em um sistema de upload de arquivos.
+- [Reimaginando uma RÃ¡dio Musical Online com Node.js e Streams](https://ew.academy/trilha/cursos-livres-projetos/curso/reimaginando-uma-radio-musical-online-com-node-js-e-streams/): Um projeto que utiliza Node.js e Streams para criar uma rÃ¡dio musical online.
+- [Recriando o player de vÃ­deo da Netflix](https://ew.academy/trilha/cursos-livres-projetos/curso/recriando-o-player-de-video-da-netflix/): Um projeto que foca na construÃ§Ã£o de um player de vÃ­deo similar ao da Netflix.
+- [Mastering JavaScript Streams (in English)](https://ew.academy/trilha/cursos-livres-projetos/curso/mastering-javascript-streams/): Um curso avanÃ§ado sobre o uso de Streams em JavaScript, disponÃ­vel em inglÃªs.
+- [Criando seu prÃ³prio app Zoom com WebRTC e WebSockets](https://ew.academy/trilha/cursos-livres-projetos/curso/criando-seu-proprio-app-zoom-com-web-rtc-e-web-sockets/): Um projeto que ensina a desenvolver um aplicativo de videoconferÃªncia semelhante ao Zoom.
+- [Criando um aplicativo de mensagens usando apenas linha de comando](https://ew.academy/trilha/cursos-livres-projetos/curso/criando-um-aplicativo-de-mensagens-usando-apenas-linha-de-comando/): Um projeto que demonstra como criar um aplicativo de mensagens simples utilizando a linha de comando.
+
+### AI para Devs
+- [Machine learning para Devs](https://ew.academy/trilha/cursos-livres-projetos/curso/machine-learning-para-devs/): IntroduÃ§Ã£o ao ML para devs (com aplicaÃ§Ãµes prÃ¡ticas).
+- [Inteligencia artificial para desenvolvedores web](https://ew.academy/trilha/trilha-ai-para-devs/): Curso completo que ensina desde machine learning Ã  inteligencia artificial aplicada a projetos.
+
+### Trilha Javascript Expert
+- [Masterclass: Como Consegui Minha Vaga na Gringa](https://ew.academy/trilha/javascript-expert/curso/masterclass-como-consegui-minha-vaga-na-gringa/): Uma masterclass que compartilha experiÃªncias e dicas para conseguir uma vaga no exterior.
+- [FormaÃ§Ã£o JavaScript Expert](https://ew.academy/trilha/javascript-expert/curso/formacao-javascript-expert/): Um programa de formaÃ§Ã£o completo para se tornar um especialista em JavaScript.
+- [Criando seu prÃ³prio app Zoom com WebRTC e WebSockets](https://ew.academy/trilha/cursos-livres-projetos/curso/criando-seu-proprio-app-zoom-com-web-rtc-e-web-sockets/): Um projeto que ensina a desenvolver um aplicativo de videoconferÃªncia semelhante ao Zoom.
+- [Recriando o App Club House com Javascript e WebSockets](https://ew.academy/trilha/cursos-livres-projetos/curso/recriando-o-app-club-house-com-javascript-e-web-sockets/): Um projeto que ensina a desenvolver um aplicativo semelhante ao Club House utilizando JavaScript e WebSockets.
+- [Reimaginando uma RÃ¡dio Musical Online com Node.js e Streams](https://ew.academy/trilha/cursos-livres-projetos/curso/reimaginando-uma-radio-musical-online-com-node-js-e-streams/): Um projeto que utiliza Node.js e Streams para criar uma rÃ¡dio musical online.
+- [Recriando o player de vÃ­deo da Netflix](https://ew.academy/trilha/cursos-livres-projetos/curso/recriando-o-player-de-video-da-netflix/): Um projeto que foca na construÃ§Ã£o de um player de vÃ­deo similar ao da Netflix.
+- [Mastering JavaScript Streams (in English)](https://ew.academy/trilha/cursos-livres-projetos/curso/mastering-javascript-streams/): Um curso avanÃ§ado sobre o uso de Streams em JavaScript, disponÃ­vel em inglÃªs.
+
+### Trilha Testes Automatizados para Devs
+- [MÃ©todo Testes Automatizados em JavaScript](https://ew.academy/trilha/trilha-testes-automatizados-p-devs/curso/metodo-testes-automatizados-em-javascript/): Um curso que apresenta um mÃ©todo eficaz para implementar testes automatizados em JavaScript.
+
+## Acesso e InscriÃ§Ã£o
+- [Acesse](https://play.ewacademy.com.br/auth/login): Link para acessar a plataforma da EW Academy e acessar conteÃºdos gratuitos.
+- [Quero me matricular](https://pay.ew.academy/checkout/assinatura-geral): Um botÃ£o para iniciar o processo de matrÃ­cula.
+- [Acesse nossa Newsletter!](https://sndflw.com/i/R8P3aLG40NGrWGmHdBrU): Inscreva-se na newsletter para receber atualizaÃ§Ãµes e novidades.
+- [A nova dimensÃ£o da EW Academy chegou.](https://now.ew.academy/lancamento-assinatura): AnÃºncio sobre as novas ofertas e melhorias na EW Academy.
+
+
+## FAQ
+
+O que estÃ¡ incluso na assinatura?
+
+### Com a assinatura, vocÃª tem acesso completo Ã  plataforma da EW Academy, incluindo:
+
+- Todos os cursos disponÃ­veis
+- Trilhas organizadas por nÃ­vel e objetivo
+- Projetos prÃ¡ticos
+- Certificados de conclusÃ£o
+- Comunidade ativa no Discord
+
+E novos conteÃºdos que forem lanÃ§ados durante a sua assinatura por um periodo anual
+
+### Terei acesso aos conteÃºdos futuros ou preciso pagar por eles?
+
+Durante o perÃ­odo da sua assinatura, *todos os novos cursos, atualizaÃ§Ãµes e trilhas sÃ£o liberados automaticamente pra vocÃª*, sem nenhum custo adicional.
+
+VocÃª paga uma vez e tem acesso completo atÃ© o fim do seu plano.
+
+### JÃ¡ comprei cursos da EW. A assinatura vale a pena pra mim?
+
+Com certeza!
+
+AlÃ©m de garantir acesso a todo o catÃ¡logo, pode explorar novas trilhas e acompanhar todos os novos cursos que forem lanÃ§ados.
+
+### Os cursos sÃ£o atualizados com frequÃªncia?
+
+Sim! Os conteÃºdos sÃ£o lanÃ§ados constantemente para manter vocÃª atualizado.
+
+### E se eu jÃ¡ comprei um curso com acesso por 2 anos? Perco esse tempo?
+
+NÃ£o! O seu tempo restante continua valendo.
+
+Se vocÃª tem, por exemplo, 1 ano restante de acesso ao curso de JavaScript e assina a EW por 1 ano, vocÃª passa a ter 2 anos de acesso total Ã quele curso (1 ano da assinatura + 1 ano jÃ¡ adquirido).
+
+Ã‰ tudo somado, sem prejuÃ­zo.
+
+### A assinatura Ã© vitalÃ­cia?
+
+NÃ£o. A assinatura Ã© por tempo determinado, com opÃ§Ã£o de plano anual.
+
+Durante esse perÃ­odo, vocÃª tem acesso total Ã  plataforma. Ao final do plano, o acesso Ã© encerrado â€” mas vocÃª pode renovar e continuar de onde parou.
+
+### Tem certificado?
+
+Sim! Todos os cursos oferecem certificados digitais de conclusÃ£o, que vocÃª pode usar para comprovar sua evoluÃ§Ã£o profissional.
+
+### Existe alguma comunidade de alunos?
+
+Sim! Todos os alunos tÃªm acesso ao nosso servidor exclusivo no Discord, onde vocÃª pode tirar dÃºvidas, conversar com outros devs, compartilhar conquistas e acompanhar novidades.
+
+### Tem suporte se eu travar em algum assunto?
+
+Temos uma comunidade ativa no Discord e suporte dedicado para tirar suas dÃºvidas.
+
+### Se eu me arrepender, posso cancelar?
+
+Sim! VocÃª pode solicitar o cancelamento dentro do prazo legal vigente. E mesmo que decida sair, a porta estarÃ¡ sempre aberta pra voltar no futuro.
